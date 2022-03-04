@@ -3,7 +3,7 @@ Além de desenvolvedor também sou advogado (OAB/MT nº 23.126).
 
 Após anos de experiência entendi que a relação documental com o cliente exige simplicidade, portanto, esse contrato foi redigido em uma linguagem simples para favorecer o entendimento, entretanto, apesar de simples seu conteúdo abrange os principais aspectos da relação entre cliente e desenvolvedor.
 
-Assim como todo contrato, nunca existirá uma “versão final” e definitiva, pois todo contrato de uso recorrente deve estar sempre em constante construção.
+Assim como todo contrato de uso recorrente, nunca existirá uma “versão final” e definitiva, pois todo contrato de uso recorrente deve estar sempre em constante construção.
 
 Também é importante dizer cada serviço prestado é único, portanto, também não existirá um contrato que sirva para todo e qualquer serviço de desenvolvimento.
 
